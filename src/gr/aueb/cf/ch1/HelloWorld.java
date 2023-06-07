@@ -1,10 +1,9 @@
 package gr.aueb.cf.ch1;
 
 /**
- * Εκτυπώνει Hello World! στο
- * standard output (κονσόλα/οθόνη).
+ * Prints Hello World!
  *
- * @author Λιάνα
+ * @author liana
  */
 public class HelloWorld {
     public static void main(String[] args) {
